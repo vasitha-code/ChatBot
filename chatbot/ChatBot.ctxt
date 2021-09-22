@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=ChatBot
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ ChatBot\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=region
+comment1.target=boolean\ hasRegion(java.lang.String)
+comment2.params=
+comment2.target=ChatBot()
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+comment4.params=message\ delay
+comment4.target=void\ slowPrint(java.lang.String,\ int)
+comment5.params=message\ delay
+comment5.target=void\ slowPrintln(java.lang.String,\ int)
+numComments=6
